@@ -94,3 +94,7 @@ calculator()
 - Run the program and select option 1 (Addition). Enter two numbers, say 5 and 7, and the program will display the result: 5 + 7 = 12.
 - Run the program and select option 4 (Division). Enter two numbers, say 10 and 2, and the program will display the result: 10 / 2 = 5.0.
 - Run the program and select option 4 (Division). Enter two numbers, say 10 and 0, and the program will display an error message: Cannot divide by zero!.
+
+ *** OUTPUT:
+ 
+ ![Image](https://github.com/user-attachments/assets/39fdf5f6-007e-45f3-8392-a7c75797e4b1)
